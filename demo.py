@@ -8,6 +8,7 @@ def draw_house(x, y, width, height):
     :param width полная ширина домика (фундамент и вылет крыши включены)
     :param height полная высота домика
     :return: None
+    
     """
     print("Типа рисую домик...", x, y, width, height)
     pass
