@@ -37,7 +37,7 @@ def draw_house_fondation(x, y, width, height):
     
 def draw_house_walls(x, y, width, height):
     """
-    Стены
+    Стены нарисовать
     """
     print("Типа рисую стены домика...", x, y, width, height)
     
